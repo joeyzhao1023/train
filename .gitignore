@@ -1,5 +1,7 @@
 py/.idea/*
+
 .gitignore
 js/pic/4.zh.png
 js/pic/call_stack.en.png
 js/pic/call_stack.zh.png
+js/npm-webpack-es6/node_modules/*
